@@ -1,0 +1,7 @@
+name        = "review-html"
+version     = "0.1.0"
+title       = "Review HTML"
+description = "Turn any content into a single self-contained HTML review file with per-item approve/reject toggles and comments. Copy results (id + status included), localStorage autosave, light theme, zero dependencies."
+tags        = ["review", "html", "comment", "annotation"]
+requires_agent   = "claude-code"
+depends_on_skills = []

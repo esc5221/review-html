@@ -1,0 +1,16 @@
+# Generated review artifacts
+*.review.html
+out/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
